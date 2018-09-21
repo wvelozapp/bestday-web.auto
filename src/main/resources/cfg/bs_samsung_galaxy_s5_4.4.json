@@ -1,0 +1,17 @@
+{
+  "deviceType": "bsmobileweb",
+  "deviceClass": "androidphone",
+  "manufacturer": "Samsung",
+  "osVersion": "4.4",
+  "os": "Android",
+  "deviceName": "Samsung Galaxy S5 4.4",
+  "driverProvider" : "BROWSER_STACK_MW",
+  "factoryConfigKey" : "WEBPHONE",
+  "caps": {
+    "platform": "ANDROID",
+    "device": "Samsung Galaxy S5",
+    "browserName": "android",
+    "acceptSslCerts": "true",
+    "autoAcceptAlerts": "true"
+  }
+}

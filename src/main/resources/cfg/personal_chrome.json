@@ -1,0 +1,15 @@
+{
+        "deviceType" : "localweb",
+        "deviceClass" : "chrome",
+        "manufacturer":"Microsoft",
+        "osVersion" : "8.1",
+        "os" : "WINDOWS_8_1",
+        "deviceName" : "OSX.Chrome",
+        "factoryConfigKey" : "WEBDESKTOP",
+        "driverProvider" : "LOCAL_WEB",
+        "caps" : {
+            "browserName" : "chrome",
+            "browserSysDriverPath" : "D:\\Dev\\chromedriver.exe",
+            "acceptSSLAlerts" : "true"
+        }
+}

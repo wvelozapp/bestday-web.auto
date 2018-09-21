@@ -1,0 +1,14 @@
+{
+        "deviceType" : "localweb",
+        "deviceClass" : "safari",
+        "manufacturer":"Apple",
+        "osVersion" : "10.11",
+        "os" : "OS X",
+        "deviceName" : "OSX.Safari",
+        "factoryConfigKey" : "WEBDESKTOP",
+        "driverProvider" : "LOCAL_WEB",
+
+        "caps" : {
+            "browserName" : "safari",
+            "acceptSSLAlerts" : "true"}
+}

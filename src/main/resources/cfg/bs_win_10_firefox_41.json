@@ -1,0 +1,19 @@
+{
+        "deviceType" : "bsweb",
+        "deviceClass" : "Firefox 41 Windows 10",
+        "manufacturer":"Apple",
+        "osVersion" : "10",
+        "os" : "WINDOWS",
+        "deviceName" : "Windows.Firefox",
+        "driverProvider" : "BROWSER_STACK",
+        "factoryConfigKey" : "WEBDESKTOP",
+        "caps" : {
+             "browser" : "Firefox",
+             "browser_version" : "41",
+             "os" : "WINDOWS",
+             "os_version":"10",
+             "resolution" : "1920x1080",
+             "acceptSSLAlerts" : "true",
+             "autoAcceptAlerts" : "true"
+         }
+}

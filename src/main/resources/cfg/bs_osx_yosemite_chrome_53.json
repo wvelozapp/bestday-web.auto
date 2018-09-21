@@ -1,0 +1,19 @@
+{
+        "deviceType" : "bsweb",
+        "deviceClass" : "Chrome 51 Yosemite",
+        "manufacturer":"Apple",
+        "osVersion" : "10.10",
+        "os" : "OS X",
+        "deviceName" : "OSX.Chrome",
+        "driverProvider" : "BROWSER_STACK",
+        "factoryConfigKey" : "WEBDESKTOP",
+        "caps" : {
+             "browser" : "Chrome",
+             "browser_version" : "53.0",
+             "os" : "OS X",
+             "os_version":"Yosemite",
+             "resolution" : "1920x1080",
+             "acceptSSLAlerts" : "true",
+             "autoAcceptAlerts" : "true"
+         }
+}

@@ -1,0 +1,21 @@
+{
+  "deviceType": "sauceweb",
+  "deviceClass": "safari",
+  "manufacturer": "Apple",
+  "osVersion": "10.12",
+  "os": "macOS",
+  "deviceName": "OSX.Safari",
+  "driverProvider": "SAUCE_LABS",
+  "factoryConfigKey": "WEBDESKTOP",
+  "caps": {
+    "browserName": "Safari",
+    "version": "10.0",
+    "platform": "macOS 10.12",
+    "acceptSSLAlerts": "true",
+    "autoAcceptAlerts": "true",
+    "screenResolution": "2048x1536",
+    "maxDuration": "3600",
+    "idleTimeout": "120",
+    "seleniumVersion": "3.4.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+        "deviceType" : "bsweb",
+        "deviceClass" : "safari",
+        "manufacturer":"Apple",
+        "osVersion" : "10.11",
+        "os" : "macOS",
+        "deviceName" : "OSX.Safari",
+        "driverProvider" : "BROWSER_STACK",
+        "factoryConfigKey" : "WEBDESKTOP",
+        "caps" : {
+             "browser" : "Safari",
+             "browser_version" : "9.1",
+             "os" : "OS X",
+             "os_version":"El Capitan",
+             "resolution" : "1920x1080",
+             "acceptSSLAlerts" : "true",
+             "autoAcceptAlerts" : "true",
+             "browserstack.safari.enablePopups": "true"
+         }
+}

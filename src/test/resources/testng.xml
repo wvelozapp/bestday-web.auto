@@ -1,0 +1,13 @@
+<suite name="Sanity Test Suite" verbose="1" parallel="classes"
+			 thread-count="1">
+	<test name="Sanity Tests" preserve-order="true">
+		<groups>
+			<run>
+				<include name="sanity"/>
+			</run>
+		</groups>
+		<packages>
+			<package name="com.applause.auto.test"/>
+		</packages>
+	</test>
+</suite>

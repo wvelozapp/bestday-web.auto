@@ -1,0 +1,20 @@
+{
+  "deviceType": "bsmobileweb",
+  "deviceClass": "iphone",
+  "manufacturer": "Apple",
+  "osVersion": "9.3",
+  "os": "iOS",
+  "deviceName": "iPhone 6S 9.3",
+  "driverProvider" : "BROWSER_STACK_MW",
+  "factoryConfigKey" : "WEBPHONE",
+  "caps": {
+    "platform": "IOS",
+    "device": "iPhone 6S",
+    "browserName": "ios",
+    "browserstack.safari.enablePopups": "true",
+    "safariOpenLinksInBackground": "true",
+    "safariAllowPopups": "true",
+    "autoAcceptAlerts":"true",
+    "locationServicesAuthorized":"true"
+  }
+}

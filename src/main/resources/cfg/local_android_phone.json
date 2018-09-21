@@ -1,0 +1,17 @@
+{
+        "deviceType" : "localmobileweb",
+        "deviceClass" : "androidphone",
+        "manufacturer":"Samsung",
+        "osVersion" : "6.0.1",
+        "os" : "Android",
+        "deviceName" : "8575525242395141",
+        "driverProvider" : "LOCAL_IOS_MW",
+        "factoryConfigKey" : "WEBPHONE",
+        "caps" : {
+        	"app" : "",
+        	"browser" : "Chrome",
+        	"deviceName" : "8575525242395141", 
+			"platformName" : "Android", 
+			"platformVersion" : "6.0.1"
+        }
+}

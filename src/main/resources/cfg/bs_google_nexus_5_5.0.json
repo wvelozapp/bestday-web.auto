@@ -1,0 +1,17 @@
+{
+  "deviceType": "bsmobileweb",
+  "deviceClass": "androidphone",
+  "manufacturer": "Google",
+  "osVersion": "5.0",
+  "os": "Android",
+  "deviceName": "Google Nexus 5 5.0",
+  "driverProvider" : "BROWSER_STACK_MW",
+  "factoryConfigKey" : "WEBPHONE",
+  "caps": {
+    "platform": "ANDROID",
+    "device": "Google Nexus 5",
+    "browserName": "android",
+    "acceptSslCerts": "true",
+    "autoAcceptAlerts": "true"
+  }
+}

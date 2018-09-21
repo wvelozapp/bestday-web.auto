@@ -1,0 +1,23 @@
+{
+  "deviceType": "saucemobileweb",
+  "deviceClass": "iphone",
+  "manufacturer": "Apple",
+  "deviceName": "iPhone 6 Simulator",
+  "os": "iOS",
+  "osVersion": "9.3",
+  "driverProvider": "SAUCE_LABS_MW",
+  "factoryConfigKey": "WEBPHONE",
+  "caps": {
+    "deviceName": "iPhone 6 Simulator",
+    "appiumVersion": "1.6.4",
+    "platformVersion": "9.3",
+    "platformName": "iOS",
+    "browserName": "Safari",
+    "deviceOrientation": "portrait",
+    "autoAcceptAlerts": "true",
+    "safariOpenLinksInBackground": "true",
+    "safariAllowPopups": "true",
+    "maxDuration": "3600",
+    "idleTimeout": "120"
+  }
+}

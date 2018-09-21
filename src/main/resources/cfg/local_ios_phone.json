@@ -1,0 +1,19 @@
+{
+  "deviceType" : "localmobileweb",
+  "deviceClass" : "iphone",
+  "manufacturer":"Apple",
+  "osVersion" : "10.3",
+  "os" : "iOS",
+  "deviceName" : "iPhone 6s Simulator",
+  "driverProvider" : "LOCAL_IOS_MW",
+  "factoryConfigKey" : "WEBPHONE",
+  "caps" : {
+    "platformName" : "iOS",
+    "platformVersion" : "10.3",
+    "deviceName" : "iPhone 6s",
+    "automationName" : "XCUITest",
+    "browserName" : "Safari",
+    "autoAcceptAlerts" : "true",
+    "safariAllowPopups" : "true"
+  }
+}

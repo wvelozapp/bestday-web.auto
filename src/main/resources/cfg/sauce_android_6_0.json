@@ -1,0 +1,22 @@
+{
+  "deviceType": "saucemobileweb",
+  "deviceClass": "androidphone",
+  "manufacturer": "Google",
+  "osVersion": "6.0",
+  "os": "Android",
+  "deviceName": "Google Nexus 7 HD Emulator",
+  "driverProvider": "SAUCE_LABS_MW",
+  "factoryConfigKey": "WEBPHONE",
+  "caps": {
+    "deviceName": "Android Emulator",
+    "platformName": "Android",
+    "browserName": "Chrome",
+    "platformVersion": "6.0",
+    "appiumVersion": "1.6.4",
+    "maxDuration": "3600",
+    "idleTimeout": "120",
+    "deviceOrientation": "portrait",
+    "nativeWebScreenshot": "true",
+    "autoAcceptAlerts": "true"
+  }
+}

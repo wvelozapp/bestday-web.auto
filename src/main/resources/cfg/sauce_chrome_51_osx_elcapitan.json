@@ -1,0 +1,20 @@
+{
+  "deviceType": "sauceweb",
+  "deviceClass": "chrome",
+  "manufacturer": "Apple",
+  "osVersion": "10.11",
+  "os": "macOS",
+  "deviceName": "Chrome 51 OSX EL CAPITAN",
+  "driverProvider": "SAUCE_LABS",
+  "factoryConfigKey": "WEBDESKTOP",
+  "caps": {
+    "browserName": "chrome",
+    "version": "51.0",
+    "platform": "OS X 10.11",
+    "screenResolution": "2048x1536",
+    "acceptSSLAlerts": "true",
+    "autoAcceptAlerts": "true",
+    "maxDuration": "10800",
+    "idleTimeout": "120"
+  }
+}

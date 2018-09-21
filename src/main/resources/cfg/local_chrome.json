@@ -1,0 +1,15 @@
+{
+        "deviceType" : "localweb",
+        "deviceClass" : "chrome",
+        "manufacturer":"Apple",
+        "osVersion" : "10.11",
+        "os" : "OS X",
+        "deviceName" : "OSX.Chrome",
+        "factoryConfigKey" : "WEBDESKTOP",
+        "driverProvider" : "LOCAL_WEB",
+        "caps" : {
+            "browserName" : "chrome",
+            "browserSysDriverPath" : "/Users/eugen/Downloads/chromedriver-5",
+            "acceptSSLAlerts" : "true"
+        }
+}

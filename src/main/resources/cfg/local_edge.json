@@ -1,0 +1,18 @@
+{
+        "deviceType" : "localweb",
+        "deviceClass" : "edge",
+        "manufacturer":"Microsoft",
+        "osVersion" : "10",
+        "os" : "WINDOWS",
+        "deviceName" : "Windows.EDGE.14",
+        "factoryConfigKey" : "WEBDESKTOP",
+        "driverProvider" : "LOCAL_WEB",
+        "caps" : {
+             "browserName" : "MicrosoftEdge",
+             "platform" : "Windows 10",
+             "version" : "14.14393",
+             "screenResolution" : "1920x1200",
+             "acceptSSLAlerts" : "true",
+             "autoAcceptAlerts" : "true"
+         }
+}

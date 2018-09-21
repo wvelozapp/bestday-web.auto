@@ -1,0 +1,20 @@
+{
+  "deviceType": "sauceweb",
+  "deviceClass": "internet explorer",
+  "manufacturer": "Microsoft",
+  "osVersion": "10",
+  "os": "WINDOWS",
+  "deviceName": "Windows.EDGE.14",
+  "driverProvider": "SAUCE_LABS",
+  "factoryConfigKey": "WEBDESKTOP",
+  "caps": {
+    "browserName": "MicrosoftEdge",
+    "platform": "Windows 10",
+    "version": "14.14393",
+    "screenResolution": "1920x1200",
+    "acceptSSLAlerts": "true",
+    "autoAcceptAlerts": "true",
+    "maxDuration": "3600",
+    "idleTimeout": "120"
+  }
+}
